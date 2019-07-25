@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GF - Price List</string>
+    
+    //AuthActivity
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Cancel</string>
+
+
+    <string name="empty_username">Username Belum Diisi</string>
+    <string name="empty_password">Password Belum Diisi</string>
+</resources>
